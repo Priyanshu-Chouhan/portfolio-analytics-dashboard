@@ -18,7 +18,7 @@ A web application that provides insights into investment strategies through dyna
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio-analytics-dashboard.git
+git clone https://github.com/Priyanshu-Chouhan/portfolio-analytics-dashboard
 cd portfolio-analytics-dashboard
 
 #Install Dependencies
